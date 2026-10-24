@@ -1,0 +1,26 @@
+/* This sets up the background color and the fonts */
+body {
+    font-family: sans-serif;
+    background-color: #f0f8ff; /* A nice light blue */
+    color: #333333; /* Dark grey text */
+    text-align: center;
+    padding: 50px;
+}
+
+/* This styles your header section */
+header {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* This makes your project look like a neat little card */
+.project-card {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    border-radius: 8px;
+    border-left: 5px solid #007bff; /* Blue accent stripe */
+}
